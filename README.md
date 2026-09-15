@@ -1,17 +1,16 @@
+## Download and Extract
+# Download Here: https://github.com/u202602/crowdros/releases
+The release packages include both Windows and Linux versions. Unzip the downloaded files and continue the rest of this README from inside the `Build` folder.
+
+
+
+
+
 # CrowdROS: A Crowd Simulation Platform for Social Robot Navigation
 
 CrowdROS is a simulation platform for building crowd navigation scenarios, running social robot experiments, visualizing recorded trajectories, and computing robot and crowd metrics from saved runs.
 
-## Download and Extract
-
-Download the latest binaries from:
-
-https://github.com/u202602/crowdros/releases
-
-The release packages include both Windows and Linux versions. Unzip the downloaded files and continue the rest of this README from inside the `Build` folder.
-
 ## Running the Simulator
-
 Launch the simulator from the project root:
 
 ```powershell
