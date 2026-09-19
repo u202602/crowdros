@@ -38,3 +38,4 @@ On Linux, run:
 - [Controls](docs/controls.md) — camera, robot, and simulation keybindings
 - [ROS 2 Control](docs/ros2-integration.md) — installing ROS 2, building `ros_tcp_endpoint`, publishing `cmd_vel`, RViz
 - [Analysis Tools](docs/analysis-tools.md) — `viz.py`, `robot_metrics.py`, `crowd_metrics.py`, `compare.py`, and the expected recording format
+- [Feedback Survey](Feedback%20Survey.pdf) — the form used for the Usability Study, used to evaluate the usability of CrowdROS
